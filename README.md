@@ -2,7 +2,7 @@
   
 meu nome é rafaela lima dias
 
-- estou estudando na Alura;   
+- estou estudando na [Alura](https://ww.alura.com.br]
 -eu to como sono
 eu tenho 15 anos
 
