@@ -12,3 +12,4 @@ dias.lima.rafaela@escola.pr.gov.br
 
 @dias.lima.rafaela
 
+![](https://media1.tenor.com/m/YqHLYJQD14UAAAAC/bubu-hulu.gif)
